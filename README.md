@@ -1,0 +1,5 @@
+#JavaDev_9module_Servlets_Cookies_Templates_FrontController
+
+http://localhost:8080/JavaDev_9module_Servlets_Cookies_Templates_FrontController_/time 
+http://localhost:8080/JavaDev_9module_Servlets_Cookies_Templates_FrontController_/time?timezone=UTC+2 
+http://localhost:8080/JavaDev_9module_Servlets_Cookies_Templates_FrontController_/time
